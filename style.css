@@ -1,0 +1,29 @@
+body {
+	background-image: url("Images-Videos/background.png");
+	text-align: center;
+	font-family: Papyrus;
+	padding: 30px;
+	font-size: 14px
+}
+
+input[type="text"] {
+	width: 20%;
+	height: 28px
+}
+
+input[type="submit"] {
+	font-family: Papyrus;
+	width: 10%;
+	height: 28px;
+	font-size: 14px;
+}
+
+a {
+	color: red;
+	text-decoration: none
+}
+
+video {
+	width: 45%;
+}
+
